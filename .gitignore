@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# .NET
+game-store-api/bin/
+game-store-api/obj/
+game-store-api/*.db
+game-store-api/*.db-shm
+game-store-api/*.db-wal
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
